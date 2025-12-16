@@ -1,0 +1,5 @@
+{
+  "name": "SevaConnectApp",
+  "description": "A comprehensive scheduling and reminder application for Temple Seva management. Coordinate volunteers, manage assignments, and automate reminders with AI assistance.",
+  "requestFramePermissions": []
+}
